@@ -1,6 +1,2 @@
-#hi
-##hey
-
-*Hello
-*World
+Hello World
 
